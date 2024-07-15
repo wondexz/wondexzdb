@@ -10,4 +10,4 @@ db.subtract("test", 100);
 db.has("test");
 db.deleteAll();
 db.deleteEach("test");
-db.backUp({ path: "./backup.json" });```
+db.backUp({ path: "./backup.json" });
