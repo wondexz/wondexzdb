@@ -1,19 +1,13 @@
 {
   "name": "wondexzdb",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Advanced database system.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "src/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/wondexz/wondexzdb.git"
   },
   "keywords": [
-    "Json",
-    "Database",
-    "db",
     "JsonDatabase"
   ],
   "author": "wondexz",
